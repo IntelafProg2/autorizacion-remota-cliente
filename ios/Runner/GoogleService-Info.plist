@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpGPrCksvwBO51kuz1v1UguJKAQQwh3pc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>639510859177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.intelaf.autorizacionesRemota</string>
+	<key>PROJECT_ID</key>
+	<string>autorizaciones-remotas-be014</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autorizaciones-remotas-be014.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:639510859177:ios:1ce7010a9d0cb43f9bc8b8</string>
+</dict>
+</plist>
