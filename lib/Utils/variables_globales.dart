@@ -1,0 +1,1 @@
+final String urlBase = "https://api.intelaf.com:2053/AutorizacionesRemotas/api/";

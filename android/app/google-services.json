@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639510859177",
+    "project_id": "autorizaciones-remotas-be014",
+    "storage_bucket": "autorizaciones-remotas-be014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639510859177:android:be3f003e7c4aedfe9bc8b8",
+        "android_client_info": {
+          "package_name": "com.intelaf.autorizaciones_remota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639510859177-kfqsecjk15vdjs74f308h3copjgh65qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwesp99LSOzmXgJ_jzqwh1bn09a4xse4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639510859177-kfqsecjk15vdjs74f308h3copjgh65qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
